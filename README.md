@@ -122,7 +122,7 @@ This ensures fair evaluation and reproducibility of results.
 
 ## 👨‍💻 Author
 
-**Durva K**  
+**Durva K and Aditya D**  
 Artificial Intelligence & Data Science  
 
 > “Machines speak through sound — AI makes sense of it.”
